@@ -1,5 +1,8 @@
-#C++ lap project
-Bahir Dar University Department of Computer Engineering 
+#C++ Lab
+
+Bahir Dar University Department of Computer Engineering
+
+C++ lab Project
 
 Name........................................Id
 1. Biniam Beza....................140
