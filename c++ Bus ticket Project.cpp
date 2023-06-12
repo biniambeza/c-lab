@@ -169,6 +169,7 @@ cout<<"If You want to reserve anothetr ticket enter 1 0r 0 unless enter another 
 cin>>y;
 if(y==0 || y==1)
 		goto start;
-else 
+	cout<<"bbb";
+	else 
 return 0;
 }
